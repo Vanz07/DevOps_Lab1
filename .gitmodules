@@ -1,0 +1,3 @@
+[submodule "MilkmanAbi"]
+	path = MilkmanAbi
+	url = https://github.com/MilkmanAbi/MilkmanAbi.git
